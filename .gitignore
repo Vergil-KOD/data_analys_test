@@ -1,0 +1,12 @@
+# Папки, создаваемые средой разработки
+.idea
+.DS_Store
+.AppleDouble
+.LSOverride
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
